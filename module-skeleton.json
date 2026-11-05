@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-hosting-and-cloud-filament",
+  "capabilityKey": "planned:sap:hosting-and-cloud",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/sap-hosting-and-cloud-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/sap/nextjs/hosting-and-cloud.md",
+  "presentationPlan": "projects/sap/filament/hosting-and-cloud.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
